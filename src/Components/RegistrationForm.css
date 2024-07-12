@@ -1,0 +1,47 @@
+.Container-1
+{
+    background-color: rgb(255, 255, 255);
+    margin-left: 35%;
+    padding: 30px 40px;
+    margin-right: 39%;
+    
+    /* margin-top: 3%; */
+    border-radius: 20px;
+    /* box-shadow: 10px 10px 5px rgb(66, 66, 66);    */
+}
+.form-container
+{
+    padding-top: 8vh;
+}
+.Container-1 h1
+{
+    margin-left: 30%;
+
+}
+.Container-1 input
+{
+    width: 20vw;
+    height: 4vh;
+    padding: 2px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 6px;
+}
+.Container-1 button
+{
+    padding: 7px 15px;
+    font-size: medium;
+
+    border:1px solid rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    color: antiquewhite;
+    border-radius: 5px;
+    
+}
+.Container-1 button:hover
+{
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+}
